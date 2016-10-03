@@ -30,6 +30,9 @@
                             <constraint firstItem="euL-9I-AUy" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="mkC-Ag-F0K"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="cooltableview" destination="euL-9I-AUy" id="7DM-8J-tfj"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
